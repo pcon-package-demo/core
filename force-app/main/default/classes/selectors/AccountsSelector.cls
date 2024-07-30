@@ -1,4 +1,4 @@
-public with sharing class AccountSelector
+public with sharing class AccountsSelector
     extends ApplicationSObjectSelector
     implements IAccountsSelector
 {
