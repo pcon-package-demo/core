@@ -1,3 +1,2 @@
-public interface IAccounts
-    extends IApplicationSObjectDomain
-{}
+public interface IAccounts extends IApplicationSObjectDomain {
+}

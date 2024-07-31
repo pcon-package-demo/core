@@ -1,12 +1,13 @@
 {
   "packageDirectories": [
     {
-      "versionName": "2024-07-29",
+      "versionName": "2024-07-30",
       "versionNumber": "1.0.0.NEXT",
       "path": "force-app",
       "default": true,
-      "package": "sfdc-core",
+      "package": "core",
       "versionDescription": "",
+      "definitionFile": "config/project-scratch-def.json",
       "dependencies": [
         {
           "package": "fflib-apex-mocks@1.0.0-2"
@@ -23,12 +24,13 @@
       ]
     }
   ],
-  "name": "sfdc-core",
+  "name": "core",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "61.0",
   "packageAliases": {
-    "sfdc-core": "0Hoak0000000CpBCAU",
+    "core": "0Hoak0000000CyrCAE",
+    "core@1.0.0-1": "05iak0000000LdxAAE",
     "at4dx": "0Hoak0000000CsPCAU",
     "at4dx@1.0.0-1": "04tak0000002dq5AAA",
     "force-di": "0Hoak0000000CqnCAE",

@@ -1,5 +1,6 @@
 {
   "trailingComma": "none",
+  "apexInsertFinalNewline": false,
   "plugins": [
     "prettier-plugin-apex",
     "@prettier/plugin-xml"
